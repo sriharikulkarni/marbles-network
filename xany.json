@@ -1,0 +1,9 @@
+"x-any": {
+      "description": "An x-any",
+      "properties": {
+        "x": {
+          "description": "anything",
+          "type": "string"
+        }
+      }
+    }
